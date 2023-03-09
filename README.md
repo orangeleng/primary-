@@ -1,10 +1,9 @@
 # primary-
 
-
+第一个简单的代码
 #include <stdio.h>
 int main()
 {
-	/*********Begin*********/
 int a=1;
 int b=2;
 switch(a){
@@ -24,3 +23,4 @@ switch(a){
     printf("a=%d b=%d",a,b);
     }
 }
+return 0;
